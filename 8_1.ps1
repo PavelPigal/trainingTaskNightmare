@@ -20,5 +20,5 @@ $value5 + " is "+ $b+" in Fahrenheit"
 else {
 Write-Host "Something wrong!"
 }
-
+Write-verbose "Nothing"
 
