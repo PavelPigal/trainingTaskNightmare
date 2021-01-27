@@ -1,7 +1,0 @@
-#no log files
-*.log
-#no db files
-*.db
-#ignore /target and /build directory
-target/
-build/
